@@ -2,7 +2,7 @@
 
 I build AI tools to fix the boring-but-critical stuff in regulated banking — data quality, reconciliation, regulatory reporting.
 
-Currently pivoting full-time to AI Engineering after 3 years building Python automation systems at Banco de Chile. I left in April 2026 to build in public.
+AI Engineer focused on regulatory tech for LatAm banking. Previously: 3 years building Python automation systems at Banco de Chile until April 2026, when I left to build in public full-time.
 
 ## 🛠️ What I'm shipping (next 90 days)
 
@@ -20,4 +20,4 @@ Santiago, Chile 🇨🇱 — open to remote AI Engineer / LLM Engineer roles (LA
 
 ## 🔗 Find me
 
-- LinkedIn: [linkedin.com/in/jplubbert](https://linkedin.com/in/jplubbert) *(actualizar con tu URL real)*
+- LinkedIn: [linkedin.com/in/pepelubbert](https://linkedin.com/in/pepelubbert)
