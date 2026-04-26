@@ -20,4 +20,4 @@ Santiago, Chile 🇨🇱 — open to remote AI Engineer / LLM Engineer roles (LA
 
 ## 🔗 Find me
 
-- LinkedIn: [linkedin.com/in/pepelubbert](https://linkedin.com/in/pepelubbert)
+- LinkedIn: [linkedin.com/in/pepelubbert](https://linkedin.com/in/jplubbert)
